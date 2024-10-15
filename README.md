@@ -2,7 +2,7 @@
 # NanonFish 
 NanonFish BOT
 
-Register Here : [NanonFish](https://t.me/NanonFishBot/NanonFish?startapp=aW52aXRlQ29kZT1tZHBjeGg1Yw)
+Register Here: [NanonFish](https://t.me/NanonFishBot/NanonFish?startapp=aW52aXRlQ29kZT1tZHBjeGg1Yw)
 
 
 ## Features
@@ -25,3 +25,5 @@ Install with python
 5. Edit query.txt
 6. python fish.py
 
+# Thanks ❤️
+Script By: [Op Hacks](https://t.me/backupredirect)
