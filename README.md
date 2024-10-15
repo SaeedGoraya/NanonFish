@@ -20,8 +20,8 @@ Install with python
 
 1. Download python
 2. Install Module
-3. Buka bot nya > inspect
-4. Di application > session storage __telegram__initParams > copy tgwebappdata
+3. Open The Bot > Inspect
+4. Of Application > session storage __telegram__initParams > copy tgwebappdata
 5. Edit query.txt
-6. python ikan.py
+6. python fish.py
 
